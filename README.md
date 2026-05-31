@@ -6,7 +6,7 @@ The project involves building a web application using Python and a framework lik
 
 The end result is a functional localhost web application showcasing the power of prompt engineering in a sensitive domain like healthcare. The project aims to give general users, including students and those in rural populations, access to basic health guidance, but with the clear understanding that it is not a substitute for professional medical advice.
 
-**Status:** planning
+**Status:** review
 **Domain:** Healthcare
 **Progress:** 0%
 

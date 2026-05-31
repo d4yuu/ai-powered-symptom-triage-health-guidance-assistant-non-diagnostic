@@ -1,0 +1,2 @@
+# ai-powered-symptom-triage-health-guidance-assistant-non-diagnostic
+This project focuses on developing an AI-powered symptom triage and health guidance assistant. The assistant will provide users with basic, non-diagnostic health information based on their reported symptoms. The core of the project lies in the application of structured prompt engineering techniques to ensure safe, consistent, and informative AI res

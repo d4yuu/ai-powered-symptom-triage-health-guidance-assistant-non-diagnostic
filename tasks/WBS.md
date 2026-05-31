@@ -58,13 +58,13 @@ Develop a basic health Q&A chatbot using zero-shot prompting and build the user 
 - [ ] **UI Development** (review) — medium priority
 
 ### Testing, Refinement & Documentation
-- **Status:** in_progress
+- **Status:** review
 - **Priority:** medium
 - **Due:** N/A
 
 Test the system, refine prompts based on testing, and complete project documentation.
 
 #### Tasks
-- [ ] **Testing and Refinement** (in_progress) — medium priority
-- [ ] **Documentation and Prompt Library** (in_progress) — medium priority
+- [ ] **Testing and Refinement** (review) — medium priority
+- [ ] **Documentation and Prompt Library** (review) — medium priority
 
